@@ -1,5 +1,5 @@
 {
-  "name": "test Hass.io Add-Ons",
-  "url": "hhttps://github.com/cybertza/hassaddon-pai/",
-  "maintainer": "test <contact@dhnet.co.za>"
+  "name": "Pai Hass.io Add-Ons",
+  "url": "https://github.com/ParadoxAlarmInterface/pai",
+  "maintainer": "https://github.com/ParadoxAlarmInterface/pai"
 }
