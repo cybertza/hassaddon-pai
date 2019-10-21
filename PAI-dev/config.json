@@ -1,7 +1,7 @@
 {
     "name": "PAI DEV BUILD",
     "version": "dev0.0",
-    "slug": "example",
+    "slug": "paidev",
     "description": "PAI DEV - EMPTY",
     "url": "https://github.com/ParadoxAlarmInterface/pai/",
     "startup": "application",

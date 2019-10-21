@@ -1,7 +1,7 @@
 {
     "name": "Main",
     "version": "Main",
-    "slug": "example",
+    "slug": "paimain,
     "description": "PAI MAIN BRANCH",
     "url": "https://github.com/ParadoxAlarmInterface/pai/",
     "startup": "application",

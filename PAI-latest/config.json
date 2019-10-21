@@ -1,7 +1,7 @@
 {
     "name": "PAI Latest",
     "version": "latest",
-    "slug": "example",
+    "slug": "pailatest",
     "description": "PAI LATEST - EMPTY",
     "url": "https://github.com/ParadoxAlarmInterface/pai/",
     "startup": "application",
