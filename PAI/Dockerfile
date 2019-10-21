@@ -1,10 +1,3 @@
-ARG BUILD_FROM=ParadoxAlarmInterface/pai/base:master
-# hadolint ignore=DL3006
-FROM ${BUILD_FROM}
-
-# Copy root filesystem
-COPY rootfs /
-
 ARG ARCH=""
 # RPI ARCH="arm32v7/"
 
