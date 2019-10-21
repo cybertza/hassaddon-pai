@@ -1,9 +1,9 @@
 {
-    "name": "Example",
-    "version": "dev",
+    "name": "Main",
+    "version": "Main",
     "slug": "example",
-    "description": "Example add-on by Community Hass.io Add-ons",
-    "url": "https://github.com/hassio-addons/addon-example",
+    "description": "PAI MAIN BRANCH",
+    "url": "https://github.com/ParadoxAlarmInterface/pai/",
     "startup": "application",
     "arch": [
         "aarch64",
